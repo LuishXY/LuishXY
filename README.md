@@ -1,5 +1,5 @@
 
-# 👨‍💻 Luis F. Herrera
+# [👨‍💻](https://emojipedia.org/man-technologist-medium-skin-tone) Luis F. Herrera
 
 > Infrastructure Architect · Site Reliability Engineer · Serial Founder  
 > I build reliable systems at scale—from startup grind to trillion-dollar enterprises.  
