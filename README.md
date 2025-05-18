@@ -24,10 +24,6 @@
 
 ### 🔭 Featured Projects
 
-- **🧠 Fraud Chain Detection @ BlockFi**  
-  Built a real-time fraud detection engine with Kafka, Redis Streams, and Go — flagged over **$15M** in fraud including Nigerian scam rings.  
-  Integrated seamlessly with alerting and compliance workflows.
-
 - **🚀 Hyatt Observability Automation**  
   Maintained **99.9999% uptime** for global marketing services using serverless Lambdas, Terraform, and CloudWatch Synthetics.
 
@@ -56,7 +52,13 @@
 - AZ-305: **Microsoft Azure Solutions Architect Expert**
 - AZ-900: **Azure Fundamentals**
 - AWS: **Cloud Practitioner**
-- 🧑‍🏫 Public Speaking & Mentorship: Geek Squad Academy, Greenwood Project, RoboThink
+
+---
+
+### 🧑‍🏫 Public Speaking & Mentorship
+- Geek Squad Academy
+- Greenwood Project
+- RoboThink
 
 ---
 
